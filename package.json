@@ -13,6 +13,8 @@
     "@ai-sdk/google": "^2.0.14",
     "@google/generative-ai": "^0.24.1",
     "ai": "^5.0.44",
-    "dotenv": "^17.2.2"
+    "dotenv": "^17.2.2",
+    "simple-git": "^3.28.0",
+    "zod": "^4.1.9"
   }
 }
